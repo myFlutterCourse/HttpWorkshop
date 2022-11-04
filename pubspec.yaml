@@ -1,4 +1,4 @@
-name: http
+name: https
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -29,8 +29,10 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  http: ^0.13.5
   flutter:
     sdk: flutter
+  
 
 
   # The following adds the Cupertino Icons font to your application.
